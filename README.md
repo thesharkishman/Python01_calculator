@@ -24,5 +24,9 @@ So, in the end, you need to have a script that
 - Fork and clone this repo
 - Make or add changes to the functions in [`calculator.py`](./calculator.py)
 	- Once you're confident of the functional changes, push the code to Github, and wait for Github to check your code
-	- If everything comes back alright, go ahead with deisgning the user input side of the code
+	- For Github Actions to work properly, please don't change anything in `tests` folder
+	- If everything comes back alright, go ahead with designing the user input side of the code
+- If you need something a little more challenging, then also try writing the integer division function
+	- I haven't written extensive tests for this yet, but you could test them out yourself
+	- Pay attention to operations including negative numbers	
 - If in doubt, Google
