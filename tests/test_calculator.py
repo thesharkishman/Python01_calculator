@@ -1,7 +1,7 @@
 import pytest
 # print(os.curdir)
 # from calculator import subtract
-from calculator_sol import *
+from calculator import *
 class TestCalculator:
 	# Addition tests
 	def test_add_str(self):
