@@ -1,6 +1,9 @@
-# Define the arithmetic functions to return the result(s). Please
-# do not rename the functions. You may create new functions for additional functionality, if required
+	#!/usr/bin/env python3
+"""
+	Define the arithmetic functions to return the result(s). Please
+	do not rename the functions. You may create new functions for additional functionality, if required
 
+"""
 
 # Define your addition function here.
 def add(a,b):
@@ -28,5 +31,7 @@ def divide_integer(a,b):
 	pass
 
 if __name__ == "__main__":
+	print("*****"*5)
+	print(" A SIMPLE CALCULATOR")
+	print("*****"*5)
 	# Your main code here
-	print("Hello World")
