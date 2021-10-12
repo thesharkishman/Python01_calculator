@@ -1,4 +1,7 @@
-## Define functions that return the result(s). 
+# Define the arithmetic functions to return the result(s). Please
+# do not rename the functions. You may create new functions for additional functionality, 
+# if required
+
 
 # Define your addition function here.
 def add(a,b):
