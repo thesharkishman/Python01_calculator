@@ -4,9 +4,6 @@
 	do not rename the functions. You may create new functions for additional functionality, if required
 
 """
-import random
-
-random.randint()
 
 value=input("enter your chouce:\n")
 
